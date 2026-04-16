@@ -1,0 +1,14 @@
+# Flutter
+mobile_app/build/
+mobile_app/.dart_tool/
+mobile_app/.connectedStatistics
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+runform_env/
+
+# Mac
+.DS_Store
