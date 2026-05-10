@@ -9,6 +9,12 @@ __pycache__/
 .env
 venv/
 runform_env/
+data/*.mp4
+data/**/*.mp4
+data/**/*.mov
+data/results/
+data/old/
+notebooks/old/
 
 # Mac
 .DS_Store
